@@ -4,5 +4,7 @@ public class Test {
         System.out.println("greetings");
         int x = 1+3;
         System.out.println("x = " + x);
+
+        System.out.println("hi");
     }
 }
